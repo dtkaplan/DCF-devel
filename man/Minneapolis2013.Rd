@@ -1,12 +1,8 @@
 \name{Minneapolis2013}
 \alias{Minneapolis2013}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
-\description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
+\title{Ballots in the 2013 Mayoral election in Minneapolis}
+\description{The choices marked on each (valid) ballot for the election, which was run using a rank-choice, instant runoff system.}
 \usage{data("Minneapolis2013")}
 \format{
   A data frame with 80101 observations on the following 5 variables.
